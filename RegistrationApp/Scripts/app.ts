@@ -48,7 +48,7 @@ $(function () {
 
     $("#search").on("input", () => {
         const query: string | null = $("#search").val() as string | null;
-        console.log("Search query:", query); // Debug log
+        console.log("Search query:", query); 
         filterTable(query ? query.toLowerCase() : "");
     });
 

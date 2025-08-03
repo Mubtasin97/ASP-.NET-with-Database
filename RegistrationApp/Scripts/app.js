@@ -24,7 +24,7 @@ $(function () {
     });
     $("#search").on("input", () => {
         const query = $("#search").val();
-        console.log("Search query:", query); // Debug log
+        console.log("Search query:", query);
         filterTable(query ? query.toLowerCase() : "");
     });
     function filterTable(query) {

@@ -19,7 +19,6 @@ namespace Manager.Models
             modelBuilder.Entity<Personeel>().HasKey(p => p.SL);
             modelBuilder.Entity<Announcement>().HasKey(a => a.SL);
             modelBuilder.Entity<TableCourseDetails>().HasKey(t => t.SL);
-            // viwRegistration is a view; key is optional but set for consistency
             modelBuilder.Entity<viwRegistration>().HasKey(v => v.Sl);
         }
     }
