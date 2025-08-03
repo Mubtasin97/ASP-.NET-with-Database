@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\models\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,23 +47,23 @@
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,11 +71,11 @@
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\rex\\desktop\\projects\\c#\\registrationapp\\registrationapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\registrationapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB8B041-8AAD-4F09-971A-D9A26C5B0B23}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,11 +94,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T15:26:09.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RegistrationsController.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Controllers\\RegistrationsController.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\Controllers\\RegistrationsController.cs",
@@ -102,12 +119,11 @@
               "RelativeToolTip": "RegistrationApp\\Controllers\\RegistrationsController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:22:17.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:22:17.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "RegistrationApp\\Views\\Home\\About.cshtml",
@@ -115,12 +131,11 @@
               "RelativeToolTip": "RegistrationApp\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-03T10:59:24.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T10:59:24.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\Controllers\\HomeController.cs",
@@ -128,12 +143,11 @@
               "RelativeToolTip": "RegistrationApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:06:12.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T14:06:12.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ManagerContext.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Models\\ManagerContext.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\Models\\ManagerContext.cs",
@@ -141,12 +155,11 @@
               "RelativeToolTip": "RegistrationApp\\Models\\ManagerContext.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T11:37:44.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T11:37:44.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "app.ts",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Scripts\\app.ts",
               "RelativeDocumentMoniker": "RegistrationApp\\Scripts\\app.ts",
@@ -154,12 +167,11 @@
               "RelativeToolTip": "RegistrationApp\\Scripts\\app.ts",
               "ViewState": "AgIAAHEAAAAAAAAAAAAAwDIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-01T13:29:32.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T13:29:32.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "RegistrationApp\\Views\\Home\\Contact.cshtml",
@@ -167,25 +179,24 @@
               "RelativeToolTip": "RegistrationApp\\Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-03T10:59:14.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T10:59:14.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RegistrationApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RegistrationApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAACeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-03T10:57:46.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "RegistrationApp\\Views\\_ViewStart.cshtml",
@@ -193,12 +204,11 @@
               "RelativeToolTip": "RegistrationApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-03T10:59:09.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T10:59:09.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Views\\Web.config",
               "RelativeDocumentMoniker": "RegistrationApp\\Views\\Web.config",
@@ -206,25 +216,24 @@
               "RelativeToolTip": "RegistrationApp\\Views\\Web.config",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-03T10:59:59.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T10:59:59.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Web.config",
               "RelativeDocumentMoniker": "RegistrationApp\\Web.config",
               "ToolTip": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Web.config",
               "RelativeToolTip": "RegistrationApp\\Web.config",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-08-01T11:43:20.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "bootstrap-grid.min.css",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Content\\bootstrap-grid.min.css",
               "RelativeDocumentMoniker": "RegistrationApp\\Content\\bootstrap-grid.min.css",
@@ -232,12 +241,11 @@
               "RelativeToolTip": "RegistrationApp\\Content\\bootstrap-grid.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-03T11:21:34.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:21:34.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\Properties\\AssemblyInfo.cs",
@@ -245,12 +253,11 @@
               "RelativeToolTip": "RegistrationApp\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:20:24.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:20:24.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\App_Start\\WebApiConfig.cs",
@@ -258,12 +265,11 @@
               "RelativeToolTip": "RegistrationApp\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:20:42.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:20:42.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\App_Start\\FilterConfig.cs",
@@ -271,12 +277,11 @@
               "RelativeToolTip": "RegistrationApp\\App_Start\\FilterConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:20:46.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:20:46.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\App_Start\\BundleConfig.cs",
@@ -284,12 +289,11 @@
               "RelativeToolTip": "RegistrationApp\\App_Start\\BundleConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:20:48.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:20:48.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Content\\Site.css",
               "RelativeDocumentMoniker": "RegistrationApp\\Content\\Site.css",
@@ -297,12 +301,11 @@
               "RelativeToolTip": "RegistrationApp\\Content\\Site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-03T11:21:16.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:21:16.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "bootstrap-grid.css",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\Content\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "RegistrationApp\\Content\\bootstrap-grid.css",
@@ -310,12 +313,11 @@
               "RelativeToolTip": "RegistrationApp\\Content\\bootstrap-grid.css",
               "ViewState": "AgIAACMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-03T11:21:21.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:21:21.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "RegistrationApp\\App_Start\\RouteConfig.cs",
@@ -323,12 +325,11 @@
               "RelativeToolTip": "RegistrationApp\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T12:53:44.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T12:53:44.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "tsconfig.json",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\tsconfig.json",
               "RelativeDocumentMoniker": "RegistrationApp\\tsconfig.json",
@@ -340,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\REX\\Desktop\\Projects\\C#\\RegistrationApp\\RegistrationApp\\packages.config",
               "RelativeDocumentMoniker": "RegistrationApp\\packages.config",
